@@ -5,3 +5,7 @@
 
 ## A Website I like
 [Medium](www.medium.com)
+
+## Things in data science I like
+1. Neural Architecture search
+2. Attention Layer
